@@ -1,1 +1,0 @@
-# windyprimnoia.github.io

@@ -8,8 +8,7 @@ tags: [writing, original_character]
 render_with_liquid: false
 pin: true
 image:
-  path: https://windyprimnoia-public-cdn.vercel.app/images/pixelart-clarissa.png
-  alt: Clarissa in pixel art
+  path: https://windyprimnoia-public-cdn.vercel.app/images/posts/character banner-protected-intensity-DEFAULT-V2.png
 ---
 
 ## Short Introduction
@@ -39,7 +38,7 @@ As of now, I have two Original Characters (will update if more are announced)
 All character sheet will be announced at later date!
 
 ### ♀️🔷 Clarissa Pluie
-![Clarissa Pluie](https://windyprimnoia-public-cdn.vercel.app/images/posts/ClarissaPluie-By-Chabashira-Ribon.png)
+![Clarissa Pluie](https://windyprimnoia-public-cdn.vercel.app/images/posts/ClarissaPluie-By-Chabashira-Ribon.png){: width="972" height="589" }
 _Art by 茶柱リボン X/@ChabashiraRibon_
 
 Image Artists

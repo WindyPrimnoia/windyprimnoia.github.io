@@ -16,10 +16,11 @@ timezone: Asia/Jakarta
 
 title: WindyPompom's Blog # the main title
 
-tagline: GameDev, Programming # it will display as the subtitle
+# it will display as the subtitle
+tagline: "To bring light to the world, let yourself shine from within✨"
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  WindyPrimnoia / WindyPompom's blog
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -88,7 +89,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: light # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url

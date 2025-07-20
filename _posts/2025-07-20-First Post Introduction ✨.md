@@ -101,16 +101,18 @@ Gemstone
 : Cyan Zircon – Triangle cut (6 angled)
 
 Trait
-: Cheerful, Stubborn, Talkative, Loving, Protective, Smart (Battle strategist) 
+: Gentle, Stubborn, Talkative, Loving, Protective, Smart (Battle strategist) 
 
 Power
-: Ice magic, water magic, portal magic, ice rapier
+: - Quantum Saber – A blade of pure energy capable of cutting through matter at an atomic level. Unlike traditional weapons, it phases through defenses, striking only the target’s core data or life force.  
+: - Photon Arsenal – A vast array of energy-based firearms, ranging from rapid plasma rifles to precision laser snipers, all summoned in an instant from Vivi’s digital core.  
+: - Guardian Drones – A squadron of floating drones that serve as Vivi’s personal protectors and Clarissa’s first line of defense. These drones are equipped with barrier emitters, high-speed interceptors, and adaptive countermeasures, ensuring Clarissa remains unharmed even in the most dangerous battles.
 
 Likes
-: Solitude, liminal space, listening to rain, collecting small trinkets from different dimensions, and pancake with whip cream 🥞
+: Clarissa (Vivi are very protective toward her), tech-nerd, new knowledge, human civilization and history, weaponries, gunnery, war vehicle
 
 Dislike
-: Selfish/narcissistic people, loud crowded places, extreme temperatures 🌡️(hot or cold), bitter foods, and sudden goodbyes
+: Mistreatment of electronic equipments, impostor, energy-inefficient electronic
 
 Family 
 : Clarissa Pluie (Sister)

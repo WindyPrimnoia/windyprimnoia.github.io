@@ -1,5 +1,5 @@
 ---
-title: Chirpy Starter How To
+title: Installing Chirpy Starter, the short frustation
 author: windyp
 description: undocumented tutorial to install chirpy starter
 date: 2025-07-20 16:10:00 +0700
@@ -10,8 +10,10 @@ render_with_liquid: false
 
 # Finally, after 4 hours of debugging, I can install this theme. 
 
-if you are trying to use chirpy, after you did the [_Option 1. Using the Starter (Recommended)_](https://chirpy.cotes.page/posts/getting-started/#option-1-using-the-starter-recommended), go to 
-`.github/workflows/pages-deploy.yml`{: .filepath}. and edit this line
+if you are trying to use chirpy, after you did the [_Option 1. Using the Starter (Recommended)_](https://chirpy.cotes.page/posts/getting-started/#option-1-using-the-starter-recommended), 
+go to 
+`.github/workflows/pages-deploy.yml`{: .filepath}.
+and you will find this
 ```yml
 jobs:
   build:
@@ -27,6 +29,18 @@ jobs:
           # (See: https://github.com/cotes2020/chirpy-starter/tree/main/assets)
 ```
 
+uncomment this line
+```yml
+        # submodules: true 
+``` 
+to this
+```yml
+        submodules: true
+``` 
+
+
 I'm freaking frustrated for trying to find out why my github action cicd keep failing because the file were not found and this was the reason. 
 
 I almost never touch frontend and very confused. This took too much time to debug.
+
+I hope this helped other people 

@@ -20,7 +20,7 @@ title: WindyPompom's Blog # the main title
 tagline: "To bring light to the world, let yourself shine from within✨"
 
 description: >- # used by seo meta and the atom feed
-  WindyPrimnoia / WindyPompom's blog
+  WindyPrimnoia / WindyPompom's blog. The life journey of Dev, GameDev, 3D Modelling, Anime Illustrations, Life Lessons, and world-building
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -110,7 +110,7 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: giscus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -121,12 +121,12 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: WindyPrimnoia/windyprimnoia.github.io # <gh-username>/<repo>
-    repo_id: R_kgDOPGvY1A
+    repo_id: R_kgDOPPlKyQ
     category: Announcements
-    category_id: DIC_kwDOPGvY1M4CtMrG
+    category_id: DIC_kwDOPPlKyc4CtMzI
     mapping: pathname # optional, default to 'pathname'
     strict: 0 # optional, default to '0'
-    input_position: top # optional, default to 'bottom'
+    input_position: bottom # optional, default to 'bottom'
     lang: en # optional, default to the value of `site.lang`
     reactions_enabled: 1 # optional, default to the value of `1`
 
